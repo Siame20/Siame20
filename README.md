@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Siame John
+- 👀 I’m interested in web development and programming
+- 🌱 I’m a third year student currently studying at eden university in zambia(Africa).
+- 💞️ I’m looking forward to improving my coding skills and programming knowledge.
+- 📫 How to reach me (still thinking about it)?
